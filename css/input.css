@@ -48,5 +48,5 @@ h6{
 }
 
 .nav-is-open{
-    @apply h-[400px] p-6
+    @apply h-[450px] p-6
 }
